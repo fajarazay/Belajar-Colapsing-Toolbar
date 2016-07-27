@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Belajar Collapsing Toolbar</string>
+    <string name="action_settings">Settings</string>
+
+
+        <string name="hello_world">Selamat belajar collapsing toolbar </string>
+
+    <string name="long_text">
+
+Kota Serang adalah ibu kota Provinsi Banten, Indonesia. Kota ini berada di bagian utara Provinsi Banten, serta dikelilingi oleh Kabupaten Serang di sebelah selatan, barat, dan timur, dan Laut Jawa di sebelah utara. Kota Serang dilintasi jalan tol lintas Jakarta-Merak.
+Lambang Kota Serang berbentuk persegi enam heksagonal dengan gambar utama gerbang Kaibon dan satu bintang. Sedangkan pada pitanya tertulis motto atau semboyan ‘Kota Serang Madani’. secara filosofis Madani merupakan bentuk kemandirian suatu daerah. Madani memberikan arti luas untuk pengayoman masyarakat, civil society yang mengedepankan musyawarah untuk mufakat, serta berbudaya.
+Kota Serang dan daerah sekitarnya terhitung istimewa secara budaya karena di sini dipertuturkan Bahasa Jawa Serang atau bahasa Jawa Banten.
+Kota Serang terdiri atas 6 kecamatan, yang dibagi lagi atas sejumlah kelurahan. Dahulu Serang merupakan bagian dari wilayah Kabupaten Serang, kemudian ditetapkan sebagai kota otonom pada tanggal 2 November 2007.
+Kota Serang terdiri atas 6 kecamatan, yaitu: Serang, Cipocok Jaya, Curug, Kasemen, Taktakan, Walantaka
+
+Sumber: Wikipedia bahasa Indonesia, ensiklopedia bebas
+    </string>
+
+        <string name="drawer_open">Open navigation drawer</string>
+        <string name="drawer_close">Close navigation drawer</string>
+
+</resources>
